@@ -13,3 +13,12 @@ http://localhost:3000/
 
 ## 데모 영상
 https://github.com/kimxminsu/wanted-pre-onboarding-frontend/assets/35947676/bbdbf951-0799-4b71-8585-d999a5ec9565
+
+## 구조
+└─ src
+    ├── apis # todo api 요청 관련 코드를 정리한 폴더
+    ├── components # todo 컴포넌트
+    ├── page # 라우터 별 페이지
+    ├── App.js
+    ├── index.css
+    └── index.js
