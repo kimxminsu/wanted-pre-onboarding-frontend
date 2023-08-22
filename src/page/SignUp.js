@@ -29,7 +29,7 @@ export default function SignUp (props) {
     };
     e.preventDefault();
     signUp(data).then((res) => {
-      navigate("/");
+      navigate("/signin");
     });
   };
 

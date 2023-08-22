@@ -12,7 +12,7 @@
 http://localhost:3000/
 
 ## 데모 영상
-https://github.com/kimxminsu/wanted-pre-onboarding-frontend/assets/35947676/bbdbf951-0799-4b71-8585-d999a5ec9565
+https://github.com/kimxminsu/wanted-pre-onboarding-frontend/assets/35947676/beb8c959-f472-4e90-9548-e2a86f45e096
 
 ## 구조
 ```
